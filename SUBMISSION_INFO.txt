@@ -1,0 +1,9 @@
+OPERATING SYSTEMS PRACTICAL
+
+Student Name : Utsav Ratan
+Enrollment No: 2401010046
+Programme    : B.Tech CSE Core
+Section      : B
+Project      : System Calls, Processes, CPU Scheduling and IPC
+
+This file is included as a simple submission identity reference.
